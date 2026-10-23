@@ -1,0 +1,1 @@
+# SmartStudent Hub — app package
